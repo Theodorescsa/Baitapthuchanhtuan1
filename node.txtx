@@ -1,0 +1,2 @@
+biến private không thể đycợ truy xuất từ ngoài class ví dụ trong class extend
+để truy c=xuất được ta cần lấy từ phương thức get
